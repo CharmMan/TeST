@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hello test
 first tortoisegit submit
 now git  test submit
 2015-12-28
+=======
+hello test  
+ I'm recode this  file
+>>>>>>> d26732f415e5f2e047758a0476db80454b3e3499
